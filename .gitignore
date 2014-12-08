@@ -1,0 +1,9 @@
+node_modules
+public/index.php
+build
+npm-debug.log
+coverage*
+.tern-port
+v8.log
+.vhash
+.version
