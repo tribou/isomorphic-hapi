@@ -1,3 +1,5 @@
+# Isomorphic Mullet
+
 Facebook in the front, Walmart in teh back :) This is a simple fork of isomorphic-react-boilerplate using Hapi.js on the back-end instead of Express... a Sunday night project.
 
 ##To-Do-List
